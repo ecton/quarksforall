@@ -14,7 +14,7 @@ The Technology
 - [CouchDB](http://couchdb.apache.org/)
 - [Love of Science](http://xkcd.com/54/)
 
-![Bonus points if you can identify the science in question](http://imgs.xkcd.com/comics/science.jpg)
+![XKCD Comic](http://imgs.xkcd.com/comics/science.jpg "Bonus points if you can identify the science in question")
 
 Contributing
 ------------
