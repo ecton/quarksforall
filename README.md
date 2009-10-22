@@ -14,6 +14,8 @@ The Technology
 - [CouchDB](http://couchdb.apache.org/)
 - [Love of Science](http://xkcd.com/54/)
 
+![Bonus points if you can identify the science in question](http://imgs.xkcd.com/comics/science.jpg)
+
 Contributing
 ------------
 This project is in its infancy. If you want to contribute, feel free to fork. If you want discuss the project, email me at jon@quarksforall.org.
